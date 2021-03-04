@@ -2,7 +2,7 @@ name: "cws-JJlab"
 title: "CWS Jeffres-Johnson Lab"
 description: |
   CWS Jeffres-Johnson Lab
-output_dir: "_site"
+output_dir: "docs"
 base_url: https://cws-JJlab.github.io/cws-JJlab
 repository_url: https://github.com/cws-JJlab/cws-JJlab
 navbar:
