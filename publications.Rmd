@@ -1,0 +1,10 @@
+---
+title: "Publications"
+description: |
+  What we've been up to (writing)!
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

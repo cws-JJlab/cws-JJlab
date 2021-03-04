@@ -1,0 +1,26 @@
+---
+title: "JJ Lab"
+description: |
+  Welcome to the JJ-Lab website!
+image: "images/P1100077.JPG"
+links:
+  - label: GitHub
+    url: "https://github.com/cws-jjlab"
+  - label: Email
+    url: "mailto:notsetupyet@gmail.com"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+# Welcome!
+
+<aside>![](images/flare_helix.png)</aside>
+
+<aside> We work on the nexus between, fish, water, fish food, and restoration across Northern California.</aside>

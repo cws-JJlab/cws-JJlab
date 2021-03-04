@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-03T23:35:06-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "JJ Lab",
+      "description": "Welcome to the JJ-Lab website!\n",
+      "author": [],
+      "contents": "\n\n          \n          \n          \n          \n          CWS Jeffres-Johnson Lab\n          \n          \n          \n          \n          \n          Presentations\n          Publications\n          About\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              JJ Lab\n            \n            \n              \n                \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Welcome!\n            \n            We work on the nexus between, fish, water, fish food, and restoration across Northern California.\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              JJ Lab\n            \n            \n              \n                \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Welcome!\n              \n              We work on the nexus between, fish, water, fish food, and restoration across Northern California.\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-03-03T23:35:06-08:00"
+    },
+    {
+      "path": "presentations.html",
+      "title": "Presentations",
+      "description": "What we've been up to (speaking)!",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-03T23:35:07-08:00"
+    },
+    {
+      "path": "publications.html",
+      "title": "Publications",
+      "description": "What we've been up to (writing)!",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-03T23:35:07-08:00"
+    }
+  ],
+  "collections": []
+}
