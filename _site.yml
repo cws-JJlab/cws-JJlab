@@ -3,8 +3,8 @@ title: "CWS Jeffres-Johnson Lab"
 description: |
   CWS Jeffres-Johnson Lab
 output_dir: "docs"
-base_url: https://cws-JJlab.github.io/cws-JJlab
-repository_url: https://github.com/cws-JJlab/cws-JJlab
+base_url: https://cws-JJlab.github.io/home
+repository_url: https://github.com/cws-JJlab/home
 navbar:
   logo:
     image: images/flare_helix.png
@@ -20,7 +20,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: rhttps://github.com/cws-JJlab/cws-JJlab
+      href: https://github.com/cws-JJlab/home
 output:
   distill::distill_article:
     highlight: rstudio
